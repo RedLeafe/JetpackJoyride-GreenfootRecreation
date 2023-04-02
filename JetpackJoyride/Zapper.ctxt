@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Zapper
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Zapper\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Zapper()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ kill()
+comment4.params=
+comment4.target=void\ moveSpeed()
+comment5.params=
+comment5.target=void\ animation()
+numComments=6

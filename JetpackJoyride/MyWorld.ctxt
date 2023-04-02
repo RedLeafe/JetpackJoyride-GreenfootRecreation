@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ setUp()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=scaleX\ scaleY\ X\ Y
+comment3.target=void\ placeBackground(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ updateScore()
+comment5.params=
+comment5.target=int\ getScore()
+comment6.params=
+comment6.target=int\ getCount()
+comment7.params=c
+comment7.target=void\ setCount(int)
+comment8.params=
+comment8.target=int\ getCoinCount()
+comment9.params=c
+comment9.target=void\ setCoinCount(int)
+numComments=11
